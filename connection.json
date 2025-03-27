@@ -1,0 +1,13 @@
+{
+  "__accountComment_"  : "enter your 'account' copied from Snowsight: https://docs.snowflake.com/en/user-guide/admin-account-identifier#finding-the-organization-and-account-name-for-an-account",
+  "__accountComment2_" : "then replace '.' with '-' ",
+  "account"            : "SFPSCOGS-KONRADSFRIDGE",
+  "__userComment_"     : "enter your user name",
+  "user"               : "kilczuk",
+  "__credComment_"     : "enter your password",
+  "password"           : "",
+  "role"               : "ACCOUNTADMIN",
+  "warehouse"          : "REG_MODEL_WH",
+  "database"           : "REG_MODEL_DB",
+  "schema"             : "REG_MODEL_SCHEMA"
+}
